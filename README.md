@@ -1,5 +1,5 @@
 # The foundations of Machine Learning and Deep Learning
-We all know how much machine learning is important now. And, as always, to get into any field, you need to stand on a solid ground and be well equipped with the foundational concepts. For that reason, I created this repo and a literature review paper with the same title; "[The foundations of ML and DL](mohamedyosef101.github.io/publication/ml-dl-101). So, my recommendation is to read the paper first and understand the concepts in some kind of *abstract* level then go to play with the code implementations. 
+We all know how much machine learning is important now. And, as always, to get into any field, you need to stand on a solid ground and be well equipped with the foundational concepts. For that reason, I created this repo and a literature review paper with the same title; "[The foundations of ML and DL](mohamedyosef101.github.io/publication/ml-dl-101)". So, my recommendation is to read the paper first and understand the concepts in some kind of *abstract* level then go to play with the code implementations. 
 
 <br>
 
